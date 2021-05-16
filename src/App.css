@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  *:focus {
+    outline: none;
+  }
+  
+  .search {
+    display: flex;
+    justify-content: center;
+    margin: 4rem auto 4rem auto;
+  }
+  
+  input {
+    width: 50%;
+    padding: 1rem;
+    font-size: large;
+  }
+  
+  button {
+    width: 5rem;
+    padding: 1.1rem;
+  }
+  
+  .item {
+    text-align: center;
+    width: 55%;
+    padding-top: 1rem;
+    margin: 2rem auto 2rem auto;
+    background-color: rgb(196, 134, 253);
+  }
