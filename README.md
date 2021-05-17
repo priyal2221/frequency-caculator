@@ -1,4 +1,4 @@
-# Code components and a breif discription about the code
+# Code components and a breif description about the code
 
 1. This app has an item component rendering a table row as word with its frequency passed every type as props.
 2. In App.js component we have a search bar which fetches API using UseEffect hook . 
@@ -12,6 +12,16 @@
     ## LINK OF DEPLOYED APP: https://frequencycalculator.herokuapp.com/
     
 # Some of the Outputs of the TestCases are as follows:
+  TestCase 1.
   
-    https://github.com/github/frequency-caculator/blob/master/img1.png
+    Initially when no value is entered.
     
+    ![](Screenshots/img3.PNG)
+    
+    After enetering a value lets say 4
+    
+    ![](Screenshots/img2.PNG)
+    
+    If we enter value more than the words present in the text file
+    
+    ![](Screenshots/img1.PNG)
