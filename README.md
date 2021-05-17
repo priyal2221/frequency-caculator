@@ -12,15 +12,20 @@
     ## LINK OF DEPLOYED APP: https://frequencycalculator.herokuapp.com/
     
 # Some of the Outputs of the TestCases are as follows:
+
   TestCase 1.
   
     Initially when no value is entered.
-    
+  
     ![](Screenshots/img3.PNG)
     
+   TestCase 2.
+ 
     After enetering a value lets say 4
     
     ![](Screenshots/img2.PNG)
+    
+   TestCase 3.
     
     If we enter value more than the words present in the text file
     
