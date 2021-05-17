@@ -16,17 +16,17 @@ TestCase 1.
   
     Initially when no value is entered.
     
-![img1](Sreenshots/img1.png)
+![img1](Sreenshots/img3.png)
   
 TestCase 2.
  
     After entering a value lets say 4
    
-![img1](Sreenshots/img3.png)
+![img1](Sreenshots/img1.png)
     
     
  TestCase 3.
     
     If we enter value more than the words present in the text file
     
-![img1](Sreenshots/img1.png)
+![img1](Sreenshots/img2.png)
