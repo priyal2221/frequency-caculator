@@ -21,7 +21,7 @@
     
    TestCase 2.
  
-    After enetering a value lets say 4
+    After entering a value lets say 4
     
     ![](Screenshots/img2.PNG)
     
