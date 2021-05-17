@@ -9,24 +9,24 @@
 
 # DEPLOYED ON HEROKU 
 
-    ## LINK OF DEPLOYED APP: https://frequencycalculator.herokuapp.com/
+## LINK OF DEPLOYED APP: https://frequencycalculator.herokuapp.com/
     
 # Some of the Outputs of the TestCases are as follows:
-
+![img1](Sreenshots/img1.png)
   TestCase 1.
   
     Initially when no value is entered.
   
-    ![](Screenshots/img3.PNG)
+![img1](Sreenshots/img3.png)
     
    TestCase 2.
  
     After entering a value lets say 4
-    
-    ![](Screenshots/img2.PNG)
+   
+![img1](Sreenshots/img2.png)
     
    TestCase 3.
     
     If we enter value more than the words present in the text file
     
-    ![](Screenshots/img1.PNG)
+![img1](Sreenshots/img1.png)
