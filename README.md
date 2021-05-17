@@ -1,4 +1,4 @@
-# components
+# Code components and a breif discription about the code
 
 1. This app has an item component rendering a table row as word with its frequency passed every type as props.
 2. In App.js component we have a search bar which fetches API using UseEffect hook . 
@@ -13,4 +13,5 @@
     
 # Some of the Outputs of the TestCases are as follows:
   
-    https://github.com/priyal2221/frequency-caculator/blob/master/Screenshots/img.png?raw=true
+    https://github.com/github/frequency-caculator/blob/master/img1.png
+    
